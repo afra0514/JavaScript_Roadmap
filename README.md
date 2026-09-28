@@ -62,7 +62,7 @@ JavaScript_Roadmap/
 │   ├── task9.js
 │   └── task10.js
 │
-└── [DIR] Outputs/                 # Terminal execution screenshots
+└── Outputs/                 # Terminal execution screenshots
     ├── task1.png ... task10.png
 ```
 ---
