@@ -1,81 +1,79 @@
-# JavaScript Problem Solving Roadmap: Zero to Hero
+# <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> Javascript Problem Solving Roadmap
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Platform-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Tasks-10%2F10_Completed-brightgreen?style=for-the-badge" alt="Tasks" />
+  <img src="https://img.shields.io/badge/Platform-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Progress-10%2F10_Completed-brightgreen?style=flat-square&logo=checkmarx" alt="Progress" />
 </p>
 
 A structured progression of 10 essential JavaScript coding challenges covering fundamental syntax, data structure manipulation, higher-order functions, and asynchronous concurrency patterns.
 
 ---
 
-## Directory Structure
+## <img src="https://img.shields.io/badge/-Directory_Tree-24292e?style=flat-square&logo=gitkraken&logoColor=white" /> Directory Structure
 
 ```text
 JavaScript_Roadmap/
 │
-├── Core_Syntax/                   # Easy Level: Warm-ups & Core Syntax
+├── [DIR] Core_Syntax/             # Easy Level: Warm-ups & Core Syntax
 │   ├── task1.js
 │   ├── task2.js
 │   └── task3.js
 │
-├── DS_Logic/                      # Intermediate Level: Data Structures & Logic
+├── [DIR] DS_Logic/                # Intermediate Level: Data Structures & Logic
 │   ├── task4.js
 │   ├── task5.js
 │   ├── task6.js
 │   └── task7.js
 │
-├── CAA/                           # Advanced Level: Closures, Async, & Algorithms
+├── [DIR] CAA/                     # Advanced Level: Closures, Async, & Algorithms
 │   ├── task8.js
 │   ├── task9.js
 │   └── task10.js
 │
-└── Outputs/                       # Terminal execution screenshots
+└── [DIR] Outputs/                 # Terminal execution screenshots
     ├── task1.png ... task10.png
 ```
 
 ---
 
-## Roadmap Overview
+## <img src="https://img.shields.io/badge/-Roadmap_Breakdown-blue?style=flat-square&logo=buffer&logoColor=white" /> Roadmap Overview
 
-### Level 1: Warm-ups & Core Syntax
+### <img src="https://img.shields.io/badge/-Level_01-2ea44f?style=flat-square&logo=codeigniter&logoColor=white" /> Warm-ups & Core Syntax
 
 | Task | Challenge | Description | Key Concepts | Execution Screenshot |
-| :--- | :--- | :--- | :--- | :---: |
-| `01` | **Reverse a String** | Reverses an input string character by character. | `split`, `reverse`, `join`, iteration | [View Output](Outputs/task1.png) |
-| `02` | **FizzBuzz Scenario** | Generates numbers with multiples substituted. | Modulo operator (`%`), branching | [View Output](Outputs/task2.png) |
-| `03` | **Find Largest Number** | Extracts the maximum numerical value from an array. | `Math.max()`, spread syntax (`...`) | [View Output](Outputs/task3.png) |
+| :---: | :--- | :--- | :--- | :---: |
+| `01` | **Reverse a String** | Reverses an input string character by character. | `split`, `reverse`, `join`, iteration | <a href="Outputs/task1.png"><img src="https://img.shields.io/badge/-View_Output-2ea44f?style=flat-square&logo=target" /></a> |
+| `02` | **FizzBuzz Scenario** | Generates numbers with multiples substituted. | Modulo operator (`%`), branching | <a href="Outputs/task2.png"><img src="https://img.shields.io/badge/-View_Output-2ea44f?style=flat-square&logo=target" /></a> |
+| `03` | **Find Largest Number** | Extracts the maximum numerical value from an array. | `Math.max()`, spread syntax (`...`) | <a href="Outputs/task3.png"><img src="https://img.shields.io/badge/-View_Output-2ea44f?style=flat-square&logo=target" /></a> |
 
 ---
 
-### Level 2: Data Structures & Logic
+### <img src="https://img.shields.io/badge/-Level_02-dfb317?style=flat-square&logo=stackshare&logoColor=white" /> Data Structures & Logic
 
 | Task | Challenge | Description | Key Concepts | Execution Screenshot |
-| :--- | :--- | :--- | :--- | :---: |
-| `04` | **Count Vowels** | Counts occurrence of case-insensitive vowels. | Regular Expressions (`/[aeiou]/gi`) | [View Output](Outputs/task4.png) |
-| `05` | **Remove Duplicates** | Filters array to return unique elements only. | `Set`, `filter()`, `indexOf()` | [View Output](Outputs/task5.png) |
-| `06` | **Check Palindrome** | Validates symmetric text ignoring punctuation/case. | String sanitization, two-pointer | [View Output](Outputs/task6.png) |
-| `07` | **Title Case Sentence** | Capitalizes the initial letter of each word. | `slice()`, `substring()`, `map()` | [View Output](Outputs/task7.png) |
+| :---: | :--- | :--- | :--- | :---: |
+| `04` | **Count Vowels** | Counts occurrence of case-insensitive vowels. | Regular Expressions (`/[aeiou]/gi`) | <a href="Outputs/task4.png"><img src="https://img.shields.io/badge/-View_Output-dfb317?style=flat-square&logo=target" /></a> |
+| `05` | **Remove Duplicates** | Filters array to return unique elements only. | `Set`, `filter()`, `indexOf()` | <a href="Outputs/task5.png"><img src="https://img.shields.io/badge/-View_Output-dfb317?style=flat-square&logo=target" /></a> |
+| `06` | **Check Palindrome** | Validates symmetric text ignoring punctuation/case. | String sanitization, two-pointer | <a href="Outputs/task6.png"><img src="https://img.shields.io/badge/-View_Output-dfb317?style=flat-square&logo=target" /></a> |
+| `07` | **Title Case Sentence** | Capitalizes the initial letter of each word. | `slice()`, `substring()`, `map()` | <a href="Outputs/task7.png"><img src="https://img.shields.io/badge/-View_Output-dfb317?style=flat-square&logo=target" /></a> |
 
 ---
 
-### Level 3: Closures, Async, & Algorithms (CAA)
+### <img src="https://img.shields.io/badge/-Level_03-cb3837?style=flat-square&logo=graphql&logoColor=white" /> Closures, Async, & Algorithms (CAA)
 
 | Task | Challenge | Description | Key Concepts | Execution Screenshot |
-| :--- | :--- | :--- | :--- | :---: |
-| `08` | **Two Sum Algorithm** | Returns indices of 2 values summing to target in $O(n)$ time. | Hash Maps (`Map`), time complexity | [View Output](Outputs/task8.png) |
-| `09` | **Memoized Decorator** | Higher-order caching proxy for expensive computations. | Closures, serialization, rest/spread | [View Output](Outputs/task9.png) |
-| `10` | **Fetch Timeout Wrapper** | Aborts network calls that exceed configured millisecond threshold. | `Promise.race()`, `setTimeout`, async | [View Output](Outputs/task10.png) |
+| :---: | :--- | :--- | :--- | :---: |
+| `08` | **Two Sum Algorithm** | Returns indices of 2 values summing to target in $O(n)$ time. | Hash Maps (`Map`), time complexity | <a href="Outputs/task8.png"><img src="https://img.shields.io/badge/-View_Output-cb3837?style=flat-square&logo=target" /></a> |
+| `09` | **Memoized Decorator** | Higher-order caching proxy for expensive computations. | Closures, serialization, rest/spread | <a href="Outputs/task9.png"><img src="https://img.shields.io/badge/-View_Output-cb3837?style=flat-square&logo=target" /></a> |
+| `10` | **Fetch Timeout Wrapper** | Aborts network calls that exceed configured millisecond threshold. | `Promise.race()`, `setTimeout`, async | <a href="Outputs/task10.png"><img src="https://img.shields.io/badge/-View_Output-cb3837?style=flat-square&logo=target" /></a> |
 
 ---
 
-## Author
+## <img src="https://img.shields.io/badge/-Developer-181717?style=flat-square&logo=github&logoColor=white" /> Author Profile
 
 <p align="left">
   <a href="https://github.com/afra0514">
-    <img src="https://img.shields.io/badge/GitHub-afra0514-181717?style=flat&logo=github" alt="afra0514 GitHub" />
+    <img src="https://img.shields.io/badge/Profile-afra0514-181717?style=for-the-badge&logo=github&logoColor=white" alt="afra0514 GitHub" />
   </a>
 </p>
 ```
