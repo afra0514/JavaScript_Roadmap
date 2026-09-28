@@ -14,18 +14,18 @@ A structured progression of 10 essential JavaScript coding challenges covering f
 ```text
 JavaScript_Roadmap/
 │
-├── [DIR] Core_Syntax/             # Easy Level: Warm-ups & Core Syntax
+├── Core_Syntax/             # Easy Level: Warm-ups & Core Syntax
 │   ├── task1.js
 │   ├── task2.js
 │   └── task3.js
 │
-├── [DIR] DS_Logic/                # Intermediate Level: Data Structures & Logic
+├── DS_Logic/                # Intermediate Level: Data Structures & Logic
 │   ├── task4.js
 │   ├── task5.js
 │   ├── task6.js
 │   └── task7.js
 │
-├── [DIR] CAA/                     # Advanced Level: Closures, Async, & Algorithms
+├── CAA/                     # Advanced Level: Closures, Async, & Algorithms
 │   ├── task8.js
 │   ├── task9.js
 │   └── task10.js
