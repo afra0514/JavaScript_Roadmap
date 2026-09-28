@@ -9,33 +9,6 @@ A structured progression of 10 essential JavaScript coding challenges covering f
 
 ---
 
-## <img src="https://img.shields.io/badge/-Directory_Tree-24292e?style=flat-square&logo=gitkraken&logoColor=white" />
-
-```text
-JavaScript_Roadmap/
-│
-├── Core_Syntax/                   # Easy Level: Warm-ups & Core Syntax
-│   ├── task1.js
-│   ├── task2.js
-│   └── task3.js
-│
-├── DS_Logic/                      # Intermediate Level: Data Structures & Logic
-│   ├── task4.js
-│   ├── task5.js
-│   ├── task6.js
-│   └── task7.js
-│
-├── CAA/                           # Advanced Level: Closures, Async, & Algorithms
-│   ├── task8.js
-│   ├── task9.js
-│   └── task10.js
-│
-└── [DIR] Outputs/                 # Terminal execution screenshots
-    ├── task1.png ... task10.png
-```
-
----
-
 ## <img src="https://img.shields.io/badge/-Roadmap_Breakdown-blue?style=flat-square&logo=buffer&logoColor=white" />
 
 ### <img src="https://img.shields.io/badge/-Level_01-2ea44f?style=flat-square&logo=codeigniter&logoColor=white" /> Warm-ups & Core Syntax
@@ -68,7 +41,31 @@ JavaScript_Roadmap/
 | `10` | **Fetch Timeout Wrapper** | Aborts network calls that exceed configured millisecond threshold. | `Promise.race()`, `setTimeout`, async | <a href="CAA/task10.js"><img src="https://img.shields.io/badge/-View_Code-blue?style=flat-square&logo=visualstudiocode" /></a> | <a href="Outputs/task10.png"><img src="https://img.shields.io/badge/-View_Output-cb3837?style=flat-square&logo=target" /></a> |
 
 ---
+## <img src="https://img.shields.io/badge/-Directory_Tree-24292e?style=flat-square&logo=gitkraken&logoColor=white" />
 
+```text
+JavaScript_Roadmap/
+│
+├── Core_Syntax/                   # Easy Level: Warm-ups & Core Syntax
+│   ├── task1.js
+│   ├── task2.js
+│   └── task3.js
+│
+├── DS_Logic/                      # Intermediate Level: Data Structures & Logic
+│   ├── task4.js
+│   ├── task5.js
+│   ├── task6.js
+│   └── task7.js
+│
+├── CAA/                           # Advanced Level: Closures, Async, & Algorithms
+│   ├── task8.js
+│   ├── task9.js
+│   └── task10.js
+│
+└── [DIR] Outputs/                 # Terminal execution screenshots
+    ├── task1.png ... task10.png
+```
+---
 ## Author
 
 <p align="left">
