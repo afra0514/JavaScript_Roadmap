@@ -1,0 +1,6 @@
+function removeDuplicates(arr) {
+  return arr.filter((item, index) => arr.indexOf(item) === index);
+}
+
+console.log(removeDuplicates([1, 2, 2, 3, 4, 4])); 
+console.log(removeDuplicates(['syeda', 'afra', 'anam', 'afra']));
