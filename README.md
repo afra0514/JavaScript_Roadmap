@@ -2,7 +2,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Platform-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Progress-10%2F10_Completed-brightgreen?style=flat-square&logo=checkmarx" alt="Progress" />
 </p>
 
@@ -10,7 +9,7 @@ A structured progression of 10 essential JavaScript coding challenges covering f
 
 ---
 
-## <img src="https://img.shields.io/badge/24292e?style=flat-square&logo=gitkraken&logoColor=white" /> Directory Structure
+## <img src="https://img.shields.io/badge/-Directory_Tree-24292e?style=flat-square&logo=gitkraken&logoColor=white" />
 
 ```text
 JavaScript_Roadmap/
@@ -37,7 +36,7 @@ JavaScript_Roadmap/
 
 ---
 
-## <img src="https://img.shields.io/badge/blue?style=flat-square&logo=buffer&logoColor=white" /> Roadmap Overview
+## <img src="https://img.shields.io/badge/-Roadmap_Breakdown-blue?style=flat-square&logo=buffer&logoColor=white" />
 
 ### <img src="https://img.shields.io/badge/-Level_01-2ea44f?style=flat-square&logo=codeigniter&logoColor=white" /> Warm-ups & Core Syntax
 
@@ -77,3 +76,6 @@ JavaScript_Roadmap/
     <img src="https://img.shields.io/badge/Profile-afra0514-181717?style=for-the-badge&logo=github&logoColor=white" alt="afra0514 GitHub" />
   </a>
 </p>
+git commit -m "docs: updated README with icon badges"
+git push origin main
+```
