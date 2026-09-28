@@ -1,7 +1,7 @@
-## Javascript Problem Solving Roadmap
+# JavaScript Problem Solving Roadmap
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Platform-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Progress-10%2F10_Completed-brightgreen?style=flat-square&logo=checkmarx" alt="Progress" />
 </p>
@@ -70,7 +70,7 @@ JavaScript_Roadmap/
 
 ---
 
-## <img src="https://img.shields.io/badge/-Developer-181717?style=flat-square&logo=github&logoColor=white" />
+## <img src="https://img.shields.io/badge/-Developer_Profile-181717?style=flat-square&logo=github&logoColor=white" /> Author
 
 <p align="left">
   <a href="https://github.com/afra0514">
